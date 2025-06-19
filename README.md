@@ -1,3 +1,3 @@
 # Math
 
-Some prjects that including math skills.
+Some projects that including math skills.
